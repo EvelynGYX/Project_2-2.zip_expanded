@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project_2 2/DS/src"/>
+	<classpathentry excluding="Client/" kind="src" path="Project_2 2/new/src"/>
+	<classpathentry kind="src" path="Project_2 2/new/src/Client"/>
+	<classpathentry kind="lib" path="Project_2 2/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/jsonplugin-0.30.jar"/>
+	<classpathentry kind="lib" path="Project_2 2/new/out/artifacts/new_jar/new.jar"/>
+	<classpathentry kind="output" path="Project_2 2/DS/out/production/DS"/>
+</classpath>
